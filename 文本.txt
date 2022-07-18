@@ -1,0 +1,4 @@
+mysql版本8.0.20
+账号密码 root/root
+
+github账号密码 290456131@qq.com/Fzq000000
